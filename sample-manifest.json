@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b3b2d97a-4797-428f-87ac-f3fb97b6e498",
+  "id_short": 424636,
+  "published_at": "2026-04-18T19:06:44Z",
+  "repo_name": "the-hhi-monopoly-index-for-maryland-us-sample-424636",
+  "sample_asset_name": "beamstation_424636_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/424636/beamstation_424636_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_records": 43,
+  "sample_sha256": "7a48fe63d292b53e22d1dc1aa21298d5f135132d2bfe01ec2e9f73ae232eaadc",
+  "sample_size_bytes": 183939,
+  "total_records": 431
+}
